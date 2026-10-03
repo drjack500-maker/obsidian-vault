@@ -8,6 +8,8 @@ related: ["[[myproject]]"]
 # プロフィール
 
 - 名前: takashi
+- 仕事: 歯科医師
+- 今の優先事項: 歯科医院の集客まわり
 - GitHub: `drjack500-maker`
 - やり取りは日本語
 
