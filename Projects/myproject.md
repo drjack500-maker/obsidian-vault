@@ -48,3 +48,4 @@ GitHub: `drjack500-maker/myproject`（**public**。患者情報や秘匿情報�
 | `claude/bold-johnson-q053s3` | アルティメイト栄歯科・矯正歯科 インプラントLPのデザイン改修版 | 2026-10-03 |
 | `claude/nice-curie-poj2qx` | いびきコンテンツ事業「となりのいびき相談室」（LINE 7日間ステップ・LP・ショート動画台本30本）。医療法人とは別事業 | 2026-10-02 |
 | `claude/upbeat-davinci-ltj2fj` | Claude Code スキル `/text-to-slide`（YouTube台本から Gemini でスライド画像を生成） | 2026-10-03 |
+| `claude/blissful-cerf-8tv2i5` | [[snore-reset-56]] の無料56秒スターター動画（ナレーション入り）の制作一式 `snore-reset-56/starter-video/` | 2026-10-22 |

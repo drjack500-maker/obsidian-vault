@@ -8,6 +8,7 @@ Claude と共有する Obsidian Vault（外部脳）。
 | `Decisions/` | 判断・選択・方針決定の記録 |
 | `Projects/` | 進行中のプロジェクトの状態 |
 | `Preferences/` | 好み・作業スタイル |
+| `Attachments/` | ノートに埋め込む動画・画像（プロジェクトごとのフォルダ） |
 
 - Claude へのルール: [CLAUDE.md](CLAUDE.md)
 - PC との同期手順: [Knowledge/obsidian-github-sync.md](Knowledge/obsidian-github-sync.md)
